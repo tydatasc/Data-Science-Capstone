@@ -42,7 +42,7 @@ After understanding the data, I converted the data into a Time Series Object
 
 *fig.1 - Final transformed data*
 
-With this data we move on the build a basic model
+Next, we move on to build a Seasonal Decomposition of Time Series by Loess model
 
 Modelling
 ========================================================
